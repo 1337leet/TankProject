@@ -1,5 +1,5 @@
 # TankProject
 
-I uploaded shit. -Nic
-
-Fuck Github.
+1. Clone this repo
+2. Open in IntelliJ
+3. Run `MainGame.java`
